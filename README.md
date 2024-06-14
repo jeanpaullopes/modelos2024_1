@@ -3,7 +3,7 @@ Nosso Trabalho de A3
 
     Cada grupo deve escolher uma metodologia (no máximo 2 grupos para cada metodologia);
 
-    O grupo deve subir um arquivo (txt) para o repositório com o nome do grupo contendo:
+    O grupo deve subir um arquivo (txt) para o repositório com o nome do grupo (nome da metodologia e um dos integrantes, separado por '_')  contendo:
         nome da metodologia escolhida
         nome dos participantes do grupo
 
