@@ -1,4 +1,0 @@
-Metodologia: TDD 
-Integrantes: Arthur Almeida
-             Lucas Soares
-             Matheus Hins
